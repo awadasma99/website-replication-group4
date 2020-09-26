@@ -30,7 +30,7 @@ header ul {
   background-color: #000;
 }
 
-header li {
+header ul li {
   float: right;
 }
 
@@ -40,11 +40,6 @@ header li a {
   text-align: center;
   padding: 40px 20px;
   text-decoration: none;
-  font-family: Proxima-Nova;
-}
-
-header li a:hover {
-  color: #00e364;
 }
 
 footer {
