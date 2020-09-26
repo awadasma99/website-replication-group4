@@ -1,28 +1,12 @@
 #header {
-  font-size: 79px;
-  width: 600px;
-  height: 90px;
-  background: black;
-  position: relative;
-  animation: mymove 4s infinite;
-  color: deepskyblue;
-  margin-left: 585px;
-  margin-top: 20px;
-  padding: 10px;
-  border: 1px solid yellow;
-  border-radius: 10px;
-  }
-
-#heade {
-  font-family: proxima-nova;
-  font-size: 20px;
-  word-spacing: 10px;
+  font-size: 70px;
   width: 100%;
-  margin: 100px;
-  padding: 0px;
-  height: 500px;
+  height: 100px;
   background: rgb(0,0,0);
   color: rgb(255,255,255);
+  margin: 100px;
+  padding: 0px;
+  word-spacing: 10px;
 }
 
 #headerimg {
