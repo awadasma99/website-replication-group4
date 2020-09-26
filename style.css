@@ -32,6 +32,7 @@ header ul {
 
 header li {
   float: right;
+  padding: 10px 30px;
 }
 
 header li a {
