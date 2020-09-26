@@ -1,4 +1,19 @@
 #header {
+  font-size: 79px;
+  width: 600px;
+  height: 90px;
+  background: black;
+  position: relative;
+  animation: mymove 4s infinite;
+  color: deepskyblue;
+  margin-left: 585px;
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid yellow;
+  border-radius: 10px;
+  }
+
+#heade {
   font-family: proxima-nova;
   font-size: 20px;
   word-spacing: 10px;
