@@ -8,11 +8,15 @@
   padding-bottom: 30px;
   margin-left: -20px;
   margin-top: -10px;
-}
+}   
 
 #headerimg {
   margin-left: 350x;
   margin-right: 550px;
   margin-top: 20px;
   margin-bottom: 0px;
+}
+
+body {
+  background-color: rgb(45,70,186);
 }
