@@ -5,7 +5,7 @@ Link to the original webpage -> https://www.spotify.com/us/
 
 ### Some Styling Notes 
 
-* Spotify's web application font: Proxima Nova
+* Spotify's web application font: Proxima Nova (which isn't free, but Montserrat is a good dupe)
 
 * Colors: black, white, green (#00e364), blue (#3b30bc)
 
