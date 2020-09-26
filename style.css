@@ -10,6 +10,8 @@
   margin-left: -20px;
   margin-top: -10px;
   vertical-align: middle;
+  position: realtive;
+  text-align:center;
 }   
 
 #headerimg {
