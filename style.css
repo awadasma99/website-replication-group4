@@ -2,8 +2,8 @@
   font-family: 'proxima-nova', sans-serif;
   font-size: 20px;
   word-spacing: 10px;
-  width: 100%;
-  height: 175px;
+  width: fit-content;
+  height: 100px;
   background: rgb(0,0,0);
-  color: rgb(255,255,255);  
+  color: rgb(255,255,255);
 }
