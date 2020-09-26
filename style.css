@@ -43,8 +43,8 @@ header li a {
   font-family: Proxima-Nova;
 }
 
-header li a:hover {
-  color: #4CAF50;
+li a:hover {
+  color: #00e364;
 }
 
 footer {
