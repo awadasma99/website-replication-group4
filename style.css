@@ -1,4 +1,4 @@
-#headerfirst {
+.header {
   font-size: 20px;
   width: 100%;
   height: 100px;
@@ -16,5 +16,13 @@
   margin-right: 600px;
   margin-top: 20px;
   margin-bottom: 0px;
+}
+
+# su {
+  word-spacing: 2px;
+}
+
+# li {
+  word-spacing: 2px;
 }
 
