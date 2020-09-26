@@ -1,10 +1,8 @@
 #header {
+  font-family: 'proxima-nova', sans-serif;
   font-size: 20px;
   width: 100%;
   height: 50px;
-  background: black;
-  position: relative;
+  background: rgb(0,0,0);
   color: rgb(255,255,255);
-  margin: 0;
-  padding: 10px;
   }
