@@ -17,11 +17,3 @@
   margin-right: 550px;
   padding-top: 15px;
 }
-
-body {
-  background-image: url('images/Background.JPG');
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 100%;
-}
