@@ -23,6 +23,29 @@ body {
   margin-right: 550px;
   padding-top: 15px;
 }
+header ul {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000;
+}
+
+header li {
+  float: right;
+}
+
+header li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+  text-decoration: none;
+  font-family: Proxima-Nova;
+}
+
+header li a:hover {
+  color: #4CAF50;
+}
 
 footer {
     background-color: black;
