@@ -20,4 +20,7 @@
 
 body {
   background-image: url('images/Background.JPG');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
