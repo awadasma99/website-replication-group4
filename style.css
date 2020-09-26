@@ -1,11 +1,17 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: white; 
+    font-size: 14px;
+}
 #header {
   font-size: 14px;
   font-weight: bold;
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   width: 105%;
   height: 75px;
   padding-bottom: 10px;
-  background: rgb(0,0,0);
+  background-color: black;
   color: rgb(255,255,255);
   word-spacing: 2px;
   margin-left: -20px;
@@ -17,3 +23,52 @@
   margin-right: 550px;
   padding-top: 15px;
 }
+
+footer {
+    background-color: black;
+    margin: 0px;
+}
+
+footer ul {
+    list-style-type: none;
+    margin: 0; 
+    padding: 0; 
+}
+
+footer ul li {
+    padding: 15px 0px;
+}
+
+footer img {
+    margin-left: 100px;
+    margin-right: 550px;
+}
+
+.footerheading {
+    color: #909496; 
+    font-weight: bold;
+}
+
+.footercolumn {
+    float: left;
+    width: 25%;
+}
+
+.footerrow {
+    padding: 100px 0px;
+}
+
+.footerrow:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+a:link, a:visited {
+    color: white; 
+    text-decoration: none;
+}
+a:hover {
+    color: #00e364;
+}
+
