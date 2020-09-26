@@ -23,6 +23,24 @@ body {
   margin-right: 550px;
   padding-top: 15px;
 }
+header ul {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000;
+}
+
+header ul li {
+  float: right;
+}
+
+header li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+  text-decoration: none;
+}
 
 footer {
     background-color: black;
