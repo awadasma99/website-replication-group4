@@ -2,13 +2,13 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     color: white; 
-    font-size: 14px;
+    margin: 0px;
 }
 #header {
   font-size: 14px;
   font-weight: bold;
   font-family: 'Montserrat', sans-serif;
-  width: 105%;
+  width: 100%;
   height: 75px;
   padding-bottom: 10px;
   background-color: black;
@@ -19,14 +19,15 @@ body {
 }   
 
 #headerimg {
-  margin-left: 375px;
+  margin-left: 100px;
   margin-right: 550px;
   padding-top: 15px;
 }
 
 footer {
     background-color: black;
-    margin: 0px;
+    font-size: 14px;
+    padding: 0px 30px;
 }
 
 footer ul {
@@ -51,7 +52,7 @@ footer img {
 
 .footercolumn {
     float: left;
-    width: 25%;
+    width: 20%;
 }
 
 .footerrow {
@@ -71,4 +72,29 @@ a:link, a:visited {
 a:hover {
     color: #00e364;
 }
+
+.fab {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+
+  .fa-instagram {
+    background: #222326;
+    color: white;
+  }
+
+  .fa-facebook-f {
+    background: #222326;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #222326;
+    color: white;
+  }
 
