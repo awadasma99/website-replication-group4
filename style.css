@@ -8,7 +8,7 @@
   padding: 0px;
   word-spacing: 10px;
   margin-bottom: 20px;
-  overflow: hidden;
+  diaplay: inline;
 }
 
 #headerimg {
