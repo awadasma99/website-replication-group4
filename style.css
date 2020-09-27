@@ -1,4 +1,5 @@
 body {
+    overflow-x: hidden;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
     color: white; 
@@ -12,7 +13,11 @@ a:hover {
     color: #00e364;
 }
 
-/* header */ 
+/* header */
+header {
+    width: 100%;
+} 
+
 .navigation-bar {
     width: 100%;
     font-size: 14px;
@@ -31,7 +36,7 @@ a:hover {
     padding: 0px;
     margin: 0px;
     text-align: center;
-    display:inline-block;
+    display: inline-block;
     vertical-align: top;
     list-style-type: none;
     margin-left: 600px;
@@ -40,30 +45,30 @@ a:hover {
 
 .navigation-bar ul li {
     display: inline;
-    margin-right: 20px; 
+    margin-left: 20px; 
 }
 
 /* footer */ 
-footer {
+.footerrow {
     width: 100%;
     background-color: black;
     font-size: 14px;
-    padding: 0px 30px;
+    padding: 75px 30px;
     position: absolute;
     bottom: 0px;
 }
 
-footer ul {
+.footerrow ul {
     list-style-type: none;
     margin: 0; 
     padding: 0; 
 }
 
-footer ul li {
+.footerrow ul li {
     padding: 15px 0px;
 }
 
-footer img {
+.footerrow img {
     margin-left: 55px;
 }
 
@@ -72,13 +77,29 @@ footer img {
     font-weight: bold;
 }
 
-.footercolumn {
-    float: left;
+.footercolumnlogo {
+    float: left; 
     width: 20%;
 }
 
-.footerrow {
-    padding: 100px 0px;
+.footercolumnlink {
+    float: left; 
+    width: 15%;
+}
+
+.footercolumnlink {
+    float: left; 
+    width: 15%;
+}
+
+.footercolumnmedia {
+    float: left; 
+    width: 35%;
+}
+
+.footercolumnmedia p {
+    margin-right: 150px;
+    float: right;
 }
 
 .footerrow:after {
