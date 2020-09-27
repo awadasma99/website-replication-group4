@@ -11,7 +11,7 @@ body {
 }
 
 #content-wrap {
-    background: url(../images/spotify_background.png) no-repeat;
+    background: url(../images/spotify_background.png) ;
     background-size: cover;
     min-height: 100vh;
     font-family: 'Montserrat', sans-serif;
