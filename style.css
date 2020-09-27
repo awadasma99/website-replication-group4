@@ -1,8 +1,8 @@
 body {
     overflow-x: hidden;
     font-family: 'Montserrat', sans-serif;
-    font-weight: bold;
     color: white; 
+    margin-left: -10px;
 }
 
 a:link, a:visited {
@@ -46,6 +46,7 @@ header {
 .navigation-bar ul li {
     display: inline;
     margin-left: 20px; 
+    font-weight: bold;
 }
 
 /* footer */ 
